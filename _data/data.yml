@@ -1,5 +1,5 @@
 basic:
-  name: Foo Bar
+  name: Muzzammil Shaikh
   title: Backend Developer
   avatar:
     display: true
@@ -7,13 +7,13 @@ basic:
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
+  email: muzzammil194@gmail.com
+  phone: +92-3122477997
+  website: https://www.muzzammil.me/
   wechat:
   whatsapp:
   telegram:
-  github: github
+  github: https://github.com/muzzammil194
   gitlab:
   bitbucket:
   googlescholar:
@@ -43,7 +43,7 @@ experiences:
       time: 2018.03 - 2019.03
       company: Second Company
       tag:
-      location: Beijing
+      location: Pakistan
       details: |
         Experience in this company:
         + First
