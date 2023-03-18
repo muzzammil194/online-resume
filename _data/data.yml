@@ -1,9 +1,6 @@
 basic:
   name: Muzzammil Shaikh
-  title: Backend Developer
-  avatar:
-    display: true
-    path: profile.png
+  title: Full-Stack Developer
 
 contact:
   location:
@@ -11,14 +8,14 @@ contact:
   phone: +92-3122477997
   website: https://www.muzzammil.me/
   wechat:
-  whatsapp:
+  whatsapp: https://wa.me/+923122477997
   telegram:
   github: https://github.com/muzzammil194
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/muzzammilsheikh/
   medium:
   twitter: twitter
   stackoverflow:
@@ -29,39 +26,61 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
+    Aligns functionality with brand consistency and aesthetic design when building and deploying websites. Augments efficiency and
+    scalability by streamlining the web structure and assuring code reusability. Formulates innovative solutions to complex IT issues by
+    drawing on zeal for problem-solving. Standardizes business procedures while overseeing multi-practice teams.
+
 
     ...
 
 experiences:
   display: true
-  title: Experiences
+  title: Professional Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Senior Assistant– Full Stack Developer
+      time: Dec 2019 – Present
+      company: Aga Khan Development Network Digital Health Resource Centre (AKDN dHRC)
       tag:
       location: Pakistan
       details: |
         Experience in this company:
-        + First
-        + Second
+        +Automate manual back-office processing through scripting and automation engine.
+        + Led migration of services to clound and enforced dockerization in all apps
+        + Improved the performance of straight-through processing by tuning database applications
+        + Developed Admin panel and reports for an outreach application for laboratory services.
+        + Developed a bridge to automate move info from local database (MS Access) to SQLITE for use in Mobile Application for offline access
+        + Created SehatNishani QR-code Vaccinator PWA for registered users to scan QR codes and view vaccination details, including next scheduled dose, with automated calculation of the next dose date and time.
+        + Introduced dockerization in department to containerize and isolate databases and Web APIs
+        + Enabled MySQL replication between a cloud and local server, enhancing data transfer and reducing data loss. Configured replication on the slave server in Hyper-V Ubuntu Docker using a Linux SSH service.
+        + Created parser console application for Android app Hayat 1.0 to read SQLite database via ADB, convert relational data into JSON hierarchical structure, and save as JSON file in phone folder. Used in Hayat 2.0 app to display data offline in rural areas of Pakistan. Fully tested and functional 
+        + I developed a program that converts data from two separate databases, MYSQL Hybrid Json Structure and Firestore, into flattened JSON format. The flattened data is then written to XLSX sheets, which are uploaded to Google Drive.
+        + I built a new and comprehensive monolithic web API application called the Covid immunization portal for AKDN Health Facilities
+
 
         ...
 
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
+    - role: Codesy Consulting
+      time: January 2019 – December 2019
       company: First Company
-      tag: Remote, part-time
-      location: Beijing
+      tag: 
+      location: Pakistan
       details: |
         Experience in this company:
-        + First
-        + Second
+        + Mentoring a team of diverse individuals for Web and API Development, DevOps, Data Engineering and Networking
+        + Led a backend Connect-dev app that simplifies tech recruitment by connecting companies to skilled developers through a portfolio-based showcase and streamlined hiring process. Developers can easily secure job contracts with companies.
+        + Designed and developed Torsend, a secure cloud-based file transfer service with advanced features such as password protection, expiration dates, and multi-recipient sharing. Torsend Pro offers larger file size limits, personalized branding, and customized email messages.
+
 
         ...
+
+    - role: TechnoSysInt Ltd
+      time: January 2018 - December 2018
+      company: Junior Developer
+      tag: 
+      location: Pakistan
+      details: |
+        Experience in this company:
+        + Maintained web-based Point of Sale (POS) application using C# .NET for a multinational fashion retailer.
 
 projects:
   display: true
