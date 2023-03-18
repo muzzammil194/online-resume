@@ -84,28 +84,61 @@ experiences:
 
 projects:
   display: true
-  title: Projects
+  title: Freelance Projects
   intro: |
-    This is all the projects I'm involved in.
+    This is all the projects I'm involved in. 
 
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: OMNI-COACH BACKEND
+      link: 
       details: |
-        Project Foo's detail, you can write markdown format text.
+        I developed a Backend API that categorizes responses for ChatGPT and Firebase Authentication-backed backend that is used in React-Native applications.
 
-    - name: Bar
+    - name: 24/7 E-commerce
       link:
       details: |
-        Project Bar's detail, you can write markdown format text.
+        I created a highly functional and visually appealing e-commerce microservice application for the Angular Admin panel and Mobile API for the categories-based product. 
+
+    - name: CRIME Prediction
+      link:
+      details: |
+        I developed a web-based application that uses machine learning to predict crime outcomes and presents them visually. The app improved the accuracy and speed of crime prediction and enhanced user experience. 
+
+    - name: Final Year Project (FYP) management.
+      link:
+      details: |
+        I designed and developed a microservice and frontend for managing Final Year Students' Project Activity Records and project management. 
+
+    - name: Devenue 
+      link:
+      details: |
+        Created a Web App utilizing Angular and Nest.js to facilitate arranging marriages for rural communities.
 
 skills:
   display: true
   title: Skills
   details: |
     Here is my skills:
-    + First
-    + Second
+    + Node.js
+    + Nest.js
+    + TypeScript
+    + Angular
+    + Docker
+    + REST API
+    + GraphQL
+    + MySQL
+    + PostgreSQL
+    + GitHub
+    + Git
+    + MEAN
+    + MERN
+    + Firebase
+    + C# Shrap
+    + MongoDB
+    + Microservice
+    + AWS & Azure
+    + Bash
+    + Socket
 
     ...
 
@@ -121,19 +154,8 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
+    - university: Muhammad Ali Jinnah University
+      time: December 2019
       major: Computer Science
       degree: Bachelor
       details: |
@@ -143,8 +165,19 @@ education:
 
         ...
 
+    - university: Aptech Computer Education
+      time: January 2016
+      major: Software Engineering
+      degree: Diploma
+      # details: |
+      #   Experience in this university:
+      #   + First
+      #   + Second
+
+        # ...
+
 certificates:
-  display: true
+  display: false
   title: Certificates
   items:
     - name: Course Foo
@@ -160,7 +193,7 @@ certificates:
       details: |
 
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -176,18 +209,16 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
     + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
-  display: true
+  display: false
   title: Languages
   items:
-    - idiom: Chinese
-      level: Native
     - idiom: English
       level: Professional
 
@@ -195,13 +226,13 @@ interests:
   display: true
   title: Interests
   items:
-    - item: Reading
+    - item: VideoGames
       link:
     - item: Cooking
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
