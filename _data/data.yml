@@ -15,7 +15,7 @@ contact:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin: /in/muzzammilsheikh/
+  linkedin: /muzzammilsheikh/
   medium:
   twitter:
   stackoverflow:
@@ -31,7 +31,7 @@ profile:
     drawing on zeal for problem-solving. Standardizes business procedures while overseeing multi-practice teams.
 
 
-    ...
+    _______________________________________________________________________________________________________________________________________________
 
 experiences:
   display: true
@@ -57,7 +57,7 @@ experiences:
         + I built a new and comprehensive monolithic web API application called the Covid immunization portal for AKDN Health Facilities
 
 
-        ...
+        ______________________________________________________________________________________________________________________________________________
 
     - role: Software Engineer
       time: January 2019 – December 2019
@@ -71,7 +71,7 @@ experiences:
         + Designed and developed Torsend, a secure cloud-based file transfer service with advanced features such as password protection, expiration dates, and multi-recipient sharing. Torsend Pro offers larger file size limits, personalized branding, and customized email messages.
 
 
-        ...
+        ______________________________________________________________________________________________________________________________________________
 
     - role: TechnoSysInt Ltd
       time: January 2018 - December 2018
@@ -121,7 +121,7 @@ skills:
     Here is my skills:
     + MEAN, + MERN,+ Docker, + Nest.js, + Angular, + Web3,+ Firebase, + MySQL, + PostgreSQL, + AWS, + Apache, + Kubernaties, + SSH, + GraphQL, + Rest-API,+ SQL-Server,+ C#,+ Socket,+ MongoDB,+ Bash,+ Json/XML RPC,+ Azure,+ HTML5,+ CSS3,+ Jest,+ Git,+ Github,+ Redux,+ Java,+ Java Spring Boot, + TypeScript,+ Nginx,+ Microservices,+ Next.js
 
-    ...
+    _______________________________________________________________________________________________________________________________________________
 
   # levels:
   #   - name: Skill A
@@ -220,7 +220,7 @@ evaluation:
     + First
     + Second
 
-    ...
+    _______________________________________________________________________________________________________________________________________________
 
 footer:
   display: true
