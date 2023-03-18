@@ -41,10 +41,10 @@ experiences:
       time: Dec 2019 – Present
       company: Aga Khan Development Network Digital Health Resource Centre (AKDN dHRC)
       tag:
-      location: Pakistan
+      # location: Pakistan
       details: |
         Experience in this company:
-        +Automate manual back-office processing through scripting and automation engine.
+        + Automate manual back-office processing through scripting and automation engine.
         + Led migration of services to clound and enforced dockerization in all apps
         + Improved the performance of straight-through processing by tuning database applications
         + Developed Admin panel and reports for an outreach application for laboratory services.
@@ -59,11 +59,11 @@ experiences:
 
         ...
 
-    - role: Codesy Consulting
+    - role: Software Engineer
       time: January 2019 – December 2019
-      company: First Company
+      company: Codesy Consulting
       tag: 
-      location: Pakistan
+      # location: Pakistan
       details: |
         Experience in this company:
         + Mentoring a team of diverse individuals for Web and API Development, DevOps, Data Engineering and Networking
@@ -77,7 +77,7 @@ experiences:
       time: January 2018 - December 2018
       company: Junior Developer
       tag: 
-      location: Pakistan
+      # location: Pakistan
       details: |
         Experience in this company:
         + Maintained web-based Point of Sale (POS) application using C# .NET for a multinational fashion retailer.
@@ -119,36 +119,17 @@ skills:
   title: Skills
   details: |
     Here is my skills:
-    + Node.js
-    + Nest.js
-    + TypeScript
-    + Angular
-    + Docker
-    + REST API
-    + GraphQL
-    + MySQL
-    + PostgreSQL
-    + GitHub
-    + Git
-    + MEAN
-    + MERN
-    + Firebase
-    + C# Shrap
-    + MongoDB
-    + Microservice
-    + AWS & Azure
-    + Bash
-    + Socket
+    + MEAN, + MERN,+ Docker, + Nest.js, + Angular, + Web3,+ Firebase, + MySQL, + PostgreSQL, + AWS, + Apache, + Kubernaties, + SSH, + GraphQL, + Rest-API,+ SQL-Server,+ C#,+ Socket,+ MongoDB,+ Bash,+ Json/XML RPC,+ Azure,+ HTML5,+ CSS3,+ Jest,+ Git,+ Github,+ Redux,+ Java,+ Java Spring Boot, + TypeScript,+ Nginx,+ Microservices,+ Next.js
 
     ...
 
-  levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
+  # levels:
+  #   - name: Skill A
+  #     level: 90
+  #   - name: Skill B
+  #     level: 80
+  #   - name: Skill C
+  #     level: 70
 
 education:
   display: true
@@ -158,12 +139,12 @@ education:
       time: December 2019
       major: Computer Science
       degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
+      # details: |
+      #   Experience in this university:
+      #   + First
+      #   + Second
 
-        ...
+        # ...
 
     - university: Aptech Computer Education
       time: January 2016
