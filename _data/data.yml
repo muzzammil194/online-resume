@@ -89,7 +89,7 @@ projects:
     This is all the projects I'm involved in. 
 
   items:
-    - name: OMNI-COACH BACKEND
+    - name: Omni-Coach Backend
       link: 
       details: |
         I developed a Backend API that categorizes responses for ChatGPT and Firebase Authentication-backed backend that is used in React-Native applications.
@@ -99,7 +99,7 @@ projects:
       details: |
         I created a highly functional and visually appealing e-commerce microservice application for the Angular Admin panel and Mobile API for the categories-based product. 
 
-    - name: CRIME Prediction
+    - name: Crime Prediction
       link:
       details: |
         I developed a web-based application that uses machine learning to predict crime outcomes and presents them visually. The app improved the accuracy and speed of crime prediction and enhanced user experience. 
@@ -119,7 +119,7 @@ skills:
   title: Skills
   details: |
     Here is my skills:
-    + MEAN, + MERN,+ Docker, + Nest.js, + Angular, + Web3,+ Firebase, + MySQL, + PostgreSQL, + AWS, + Apache, + Kubernaties, + SSH, + GraphQL, + Rest-API,+ SQL-Server,+ C#,+ Socket,+ MongoDB,+ Bash,+ Json/XML RPC,+ Azure,+ HTML5,+ CSS3,+ Jest,+ Git,+ Github,+ Redux,+ Java,+ Java Spring Boot, + TypeScript,+ Nginx,+ Microservices,+ Next.js
+    MEAN, MERN, Docker, Nest.js, Angular, Web3, Firebase, MySQL, PostgreSQL, AWS, Apache, Kubernaties, SSH, GraphQL, Rest-API, SQL-Server,+ C#,+ Socket, MongoDB, Bash, Json/XML RPC, Azure, HTML5, CSS3, Jest, Git, Github, Redux, Java, Java Spring Boot, TypeScript, Nginx, Microservices, Next.js
 
     _______________________________________________________________________________________________________________________________________________
 
