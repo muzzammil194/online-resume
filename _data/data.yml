@@ -90,7 +90,8 @@ projects:
 
   items:
     - name: Omni-Coach Backend
-      link: 
+      link: https://play.google.com/store/apps/details?id=com.omnicoach
+      link: https://apps.apple.com/app/omnicoach/id1667301875
       details: |
         I developed a Backend API that categorizes responses for ChatGPT and Firebase Authentication-backed backend that is used in React-Native applications.
 
